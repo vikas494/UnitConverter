@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(232, 235, 237);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#head-el
+{
+    background-color: #5f3bfd;
+    display: block;
+    padding: 0 0 5px 0;
+}
+
+#header
+{
+    color: white;
+    padding-top: 20px;
+}
+
+#input-el
+{
+    display: block;
+    margin: 0 auto;
+    height: 40px;
+    width: 60px;
+    border: 2px purple solid;
+    border-radius: 5px;
+    background-color: #5f3bfd;
+}
+
+#convert-btn
+{
+    margin: 20px auto;
+    display: block;
+    height: 30px;
+    width: 70px;
+    border: 2px #5f3bfd solid;
+    border-radius: 5px;
+    font-weight: bold;
+} 
+
+.output-div
+{
+    background-color: white;
+    padding: 10px 0;
+    margin: 20px 20px;
+}

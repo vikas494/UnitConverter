@@ -23,5 +23,5 @@ convertBtn.addEventListener("click", function(){
 
     showLen.textContent = `${n} meters = ${nfeets} | ${n} feet = ${nmeters}`
     showVol.textContent = `${n} liters = ${ngals} | ${n} gallons = ${nliters}`
-    showMass.textContent = `${n} li;os = ${npounds} | ${n} pounds = ${nkgs}`
+    showMass.textContent = `${n} kilos = ${npounds} | ${n} pounds = ${nkgs}`
 })
